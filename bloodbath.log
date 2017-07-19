@@ -1,0 +1,97 @@
+2017-07-04 12:10:50 INFO  LoaderMD2:214 - models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+2017-07-04 12:10:50 INFO  ModelMD2:88 - Fail loading md2 model - 
+java.lang.RuntimeException: java.io.FileNotFoundException: models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+	at org.jomaveger.model.md2.LoaderMD2.importMD2(LoaderMD2.java:215)
+	at org.jomaveger.model.md2.ModelMD2.load(ModelMD2.java:85)
+	at org.jomaveger.model.md2.ModelQuake2.load(ModelQuake2.java:40)
+	at org.jomaveger.model.ModelLoader.loadMD2Model(ModelLoader.java:40)
+	at org.jomaveger.ztest.TestMD2Animation.<init>(TestMD2Animation.java:46)
+	at org.jomaveger.ztest.TestMD2Animation.main(TestMD2Animation.java:19)
+Caused by: java.io.FileNotFoundException: models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.jomaveger.model.md2.LoaderMD2.importMD2(LoaderMD2.java:165)
+	... 5 more
+2017-07-04 12:10:50 INFO  ModelQuake2:42 - It was not possible to load the md2 model. The application will shut down.
+2017-07-04 12:33:29 INFO  LoaderMD2:214 - models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+2017-07-04 12:33:29 INFO  ModelMD2:88 - Fail loading md2 model - 
+java.lang.RuntimeException: java.io.FileNotFoundException: models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+	at org.jomaveger.model.md2.LoaderMD2.importMD2(LoaderMD2.java:215)
+	at org.jomaveger.model.md2.ModelMD2.load(ModelMD2.java:85)
+	at org.jomaveger.model.md2.ModelQuake2.load(ModelQuake2.java:40)
+	at org.jomaveger.model.ModelLoader.loadMD2Model(ModelLoader.java:40)
+	at org.jomaveger.ztest.TestMD2Animation.<init>(TestMD2Animation.java:46)
+	at org.jomaveger.ztest.TestMD2Animation.main(TestMD2Animation.java:19)
+Caused by: java.io.FileNotFoundException: models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.jomaveger.model.md2.LoaderMD2.importMD2(LoaderMD2.java:165)
+	... 5 more
+2017-07-04 12:33:29 INFO  ModelQuake2:42 - It was not possible to load the md2 model. The application will shut down.
+2017-07-04 12:37:02 INFO  LoaderMD2:214 - models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+2017-07-04 12:37:02 INFO  ModelMD2:88 - Fail loading md2 model - 
+java.lang.RuntimeException: java.io.FileNotFoundException: models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+	at org.jomaveger.model.md2.LoaderMD2.importMD2(LoaderMD2.java:215)
+	at org.jomaveger.model.md2.ModelMD2.load(ModelMD2.java:85)
+	at org.jomaveger.model.md2.ModelQuake2.load(ModelQuake2.java:40)
+	at org.jomaveger.model.ModelLoader.loadMD2Model(ModelLoader.java:40)
+	at org.jomaveger.ztest.TestMD2Animation.<init>(TestMD2Animation.java:46)
+	at org.jomaveger.ztest.TestMD2Animation.main(TestMD2Animation.java:19)
+Caused by: java.io.FileNotFoundException: models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.jomaveger.model.md2.LoaderMD2.importMD2(LoaderMD2.java:165)
+	... 5 more
+2017-07-04 12:37:02 INFO  ModelQuake2:42 - It was not possible to load the md2 model. The application will shut down.
+2017-07-04 12:37:39 INFO  LoaderMD2:214 - models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+2017-07-04 12:37:39 INFO  ModelMD2:88 - Fail loading md2 model - 
+java.lang.RuntimeException: java.io.FileNotFoundException: models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+	at org.jomaveger.model.md2.LoaderMD2.importMD2(LoaderMD2.java:215)
+	at org.jomaveger.model.md2.ModelMD2.load(ModelMD2.java:85)
+	at org.jomaveger.model.md2.ModelQuake2.load(ModelQuake2.java:40)
+	at org.jomaveger.model.ModelLoader.loadMD2Model(ModelLoader.java:40)
+	at org.jomaveger.ztest.TestMD2Animation.<init>(TestMD2Animation.java:46)
+	at org.jomaveger.ztest.TestMD2Animation.main(TestMD2Animation.java:19)
+Caused by: java.io.FileNotFoundException: models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.jomaveger.model.md2.LoaderMD2.importMD2(LoaderMD2.java:165)
+	... 5 more
+2017-07-04 12:37:39 INFO  ModelQuake2:42 - It was not possible to load the md2 model. The application will shut down.
+2017-07-04 12:38:04 INFO  LoaderMD2:214 - models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+2017-07-04 12:38:04 INFO  ModelMD2:88 - Fail loading md2 model - 
+java.lang.RuntimeException: java.io.FileNotFoundException: models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+	at org.jomaveger.model.md2.LoaderMD2.importMD2(LoaderMD2.java:215)
+	at org.jomaveger.model.md2.ModelMD2.load(ModelMD2.java:85)
+	at org.jomaveger.model.md2.ModelQuake2.load(ModelQuake2.java:40)
+	at org.jomaveger.model.ModelLoader.loadMD2Model(ModelLoader.java:40)
+	at org.jomaveger.ztest.TestMD2Animation.<init>(TestMD2Animation.java:46)
+	at org.jomaveger.ztest.TestMD2Animation.main(TestMD2Animation.java:19)
+Caused by: java.io.FileNotFoundException: models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.jomaveger.model.md2.LoaderMD2.importMD2(LoaderMD2.java:165)
+	... 5 more
+2017-07-04 12:38:04 INFO  ModelQuake2:42 - It was not possible to load the md2 model. The application will shut down.
+2017-07-04 12:45:33 INFO  LoaderMD2:214 - models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+2017-07-04 12:45:33 INFO  ModelMD2:88 - Fail loading md2 model - 
+java.lang.RuntimeException: java.io.FileNotFoundException: models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+	at org.jomaveger.model.md2.LoaderMD2.importMD2(LoaderMD2.java:215)
+	at org.jomaveger.model.md2.ModelMD2.load(ModelMD2.java:85)
+	at org.jomaveger.model.md2.ModelQuake2.load(ModelQuake2.java:40)
+	at org.jomaveger.model.ModelLoader.loadMD2Model(ModelLoader.java:40)
+	at org.jomaveger.ztest.TestMD2Animation.init(TestMD2Animation.java:74)
+	at org.jomaveger.core.GameCore.run(GameCore.java:34)
+	at org.jomaveger.ztest.TestMD2Animation.main(TestMD2Animation.java:19)
+Caused by: java.io.FileNotFoundException: models\Ogros.md2 (El sistema no puede encontrar la ruta especificada)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.jomaveger.model.md2.LoaderMD2.importMD2(LoaderMD2.java:165)
+	... 6 more
+2017-07-04 12:45:33 INFO  ModelQuake2:42 - It was not possible to load the md2 model. The application will shut down.
